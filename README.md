@@ -6,7 +6,7 @@
 
 
 <p align="center">
-<img alt="" src="https://media.discordapp.net/attachments/982952386001776673/985969598467801189/CC_20220613_151036.png"/>
+<img alt="" src="https://media.discordapp.net/attachments/902320126035124304/989828867898351616/download_20.jpeg"/>
 </p>
 
 # 🤔 Quem eu sou?
