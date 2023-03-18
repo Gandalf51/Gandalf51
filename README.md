@@ -11,7 +11,7 @@
 
 # 🤔 Quem eu sou?
 
-Ola eu sou o <strong>Sr.Gui</strong> estudante e programador tenho 14 anos,  atualmente as linguagens que eu sei no momento são <strong>Javascript, html e css. </strong>meu principal projeto é meu bot do discord.
+Ola eu sou o <strong>Sr.Gui</strong> estudante e programador tenho 14 anos,  atualmente as linguagens que eu sei no momento são <strong>Javascript, html e css. </strong>meu principal projeto é a sexodb.
 
 # ferramentas
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
