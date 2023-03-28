@@ -15,14 +15,11 @@ Meu principal projeto no momento é uma database que venho trabalhando há algum
 
 Sinto que estou apenas no começo de minha jornada como desenvolvedor, mas estou ansioso para aprender mais e continuar a criar projetos que ajudem outras pessoas.
 
-## 🔍 Como me encontrar
+## 🔍 Me de sugestões
 
-Você pode encontrar meu trabalho no Github em [https://github.com/seuusername](https://github.com/seuusername). Espero que vocês possam dar uma olhada no meu trabalho e deixar qualquer feedback ou sugestões que possam ter.
+Espero que vocês possam dar uma olhada no meu trabalho e deixar qualquer feedback ou sugestões que possam ter.
 
 Muito obrigado!
-
-<!-- Shields de estatísticas do repositório -->
-![GitHub stars](https://img.shields.io/github/stars/Gandalf51/SexoDb?style=social)
 
 <!-- Gráfico de estatísticas do GitHub -->
 ![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=Gandalf51&show_icons=true)
